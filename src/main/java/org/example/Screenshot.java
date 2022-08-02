@@ -19,7 +19,7 @@ public class Screenshot  {
     public void Screenshot(WebDriver driver) throws IOException {
 
         File scrFile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
-        String path= "./screenshot/img1.jpg"+ LocalDate.now().toString()+"-"+System.currentTimeMillis();
+        String path= "./screenshot/img"+ LocalDate.now().toString()+"-"+System.currentTimeMillis()+".jpg";
         File destFile=new File(path);
         FileUtils.copyFile(scrFile,destFile);
                 
