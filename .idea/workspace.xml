@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50443dd6-2c28-4676-8dd5-e55356e857a8" name="Changes" comment="by using page objects">
-      <change afterPath="$PROJECT_DIR$/testing.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Screenshot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Screenshot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/BaseTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,21 +44,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_directory_selection": "C:/Users/Jayaram_Boga/IdeaProjects/sa/POMHUNTY/src/main/java/org",
-    "last_opened_file_path": "C:/Users/Mandliramireddy/IdeaProjects/sample1/module 5POMHUNTY"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/Jayaram_Boga/IdeaProjects/sa/POMHUNTY/src/main/java/org&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mandliramireddy/IdeaProjects/sample1/module 5POMHUNTY&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.CalculatorPageTests.checkInformationInVmClassString (1)">
+  <component name="RunManager" selected="TestNG.&lt;default&gt;">
     <configuration name="All in module 5POMHUNTY" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="module 5POMHUNTY" />
       <option name="PACKAGE_NAME" value="" />
@@ -115,18 +112,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorPageTests.checkInformationInVmClassString" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="HurtMePlentyWithPOMFifthProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.CalculatorPageTests" />
-      <option name="METHOD_NAME" value="checkInformationInVmClassString" />
-      <option name="TEST_OBJECT" value="METHOD" />
+    <configuration name="&lt;default&gt;" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
       <properties />
       <listeners />
       <method v="2">
@@ -135,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.&lt;default&gt;" />
         <item itemvalue="TestNG.CalculatorPageTests.checkInformationInVmClassString (1)" />
         <item itemvalue="TestNG.CalculatorPageTests (1)" />
         <item itemvalue="JUnit.All in module 5POMHUNTY" />
         <item itemvalue="TestNG.C:/Users/Jayaram_Boga/IdeaProjects/sa/POMHUNTY/testing.xml" />
-        <item itemvalue="TestNG.CalculatorPageTests.checkInformationInVmClassString" />
       </list>
     </recent_temporary>
   </component>
